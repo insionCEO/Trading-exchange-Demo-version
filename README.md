@@ -3,7 +3,7 @@
 Advanced cryptocurrencies demo trading platform.
 
 [![Black code style](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
-[![.github/workflows/production.yml](https://github.com/mohamadkhalaj/Demo-TradingPlatform/actions/workflows/production.yml/badge.svg)](https://github.com/mohamadkhalaj/Demo-TradingPlatform/actions/workflows/production.yml)
+[![.github/workflows/production.yml](https://github.com/insionCEO/Trading-exchange-Demo-version/actions/workflows/production.yml/badge.svg)](https://github.com/insionCEO/Trading-exchange-Demo-version/actions/workflows/production.yml)
 
 ## Features✨
 
